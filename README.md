@@ -24,6 +24,9 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 
+## Starter Code Page
+(./assets/images/page-screenshot.png)
+
 ## Altered Code
 
 - Changed title to be more descriptive
