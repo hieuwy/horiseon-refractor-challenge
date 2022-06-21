@@ -27,7 +27,7 @@ THEN I find a concise, descriptive title
 ## Altered Code
 
 - Changed title to be more descriptive
-- Converted <div> tags to more specific semantic tags for easier reading (header, nav, section,  article, aside, and footer) 
+- Converted tags to more specific semantic tags for easier reading (header, nav, section,  article, aside, and footer) 
 - Added alt text for images
 - Reorganized css style sheet to match sequence in HTML
 - Added comments to both HTML and CSS files for easier code reading and navigation
