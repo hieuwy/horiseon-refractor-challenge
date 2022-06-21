@@ -25,7 +25,7 @@ THEN I find a concise, descriptive title
 ```
 
 ## Starter Code Page
-(./assets/images/page-screenshot.png)
+![Starter Code Screenshot](./assets/images/page-screenshot.png)
 
 ## Altered Code
 
